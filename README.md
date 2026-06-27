@@ -9,4 +9,7 @@ Contributor :
 - Muhammad Hafizh Abby
 - Muhammad Royan Aldiansyah
 
+## 👥 Contributors
+[![Contributors](https://contrib.rocks/image?repo=zelfyn/Point-Of-Sale-Simple)](https://github.com/zelfyn/Point-Of-Sale-Simple/graphs/contributors)
+
   26/06/2026
