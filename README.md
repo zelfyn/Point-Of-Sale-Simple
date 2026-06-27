@@ -6,7 +6,7 @@ Contributor :
 - Ikmal Ghozali
 - Rafi Afham Pradana
 - Zuniar Hamid Rahman
-- Muhammad Abby
-- Royan
+- Muhammad Hafizh Abby
+- Muhammad Royan Aldiansyah
 
   26/06/2026
